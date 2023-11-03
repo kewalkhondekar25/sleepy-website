@@ -6,7 +6,7 @@ const siteMetaData = {
     IOS and Android. It helps you to get the restful night of sleep you deserve,
     with our bedtime sleep sounds, meditations and sleep podcasts.`,
     language:'en-us',
-    siteUrl:'https://sleepy.kewalkhondekar.dev',
+    siteUrl:'https://sleepy.kewalkhondekar.dev/',
     siteLogo:'/logo.png',
     socialBanner:'/SleepyWallPPr.png',
     email:'kewalkhondekar25@gmail.com',
