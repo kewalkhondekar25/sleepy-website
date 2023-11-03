@@ -7,7 +7,7 @@ const siteMetaData = {
     with our bedtime sleep sounds, meditations and sleep podcasts.`,
     language:'en-us',
     siteUrl:'https://sleepy.kewalkhondekar.dev',
-    siteLogo:'/img2.jpg',
+    siteLogo:'/logo.png',
     socialBanner:'/SleepyWallPPr.png',
     email:'kewalkhondekar25@gmail.com',
     github:'https://github.com/kewalkhondekar25',

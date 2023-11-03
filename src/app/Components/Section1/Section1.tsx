@@ -24,7 +24,7 @@ const Section1 = () => {
                 lg:text-[5vw]
                 2xl:text-[4vw] 
                 '>
-                    Relax and Sleep Soundly with Sleepiest&apos;s
+                    Relax and Sleep Soundly with Sleepy&apos;s ultimate
                     <span className='text-[#B146FE] ml-[4.25vw]'> Sleep Sounds</span>
                 </div>
                 <div className='text-gray-500 text-[4vw]

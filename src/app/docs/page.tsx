@@ -47,7 +47,7 @@ const page = () => {
                     <div>
                         <ul className='capitalize'>
                             <li>for Android devices</li>
-                            <li>1. Download Expo Go from apple store </li>
+                            <li>1. Download Expo Go from Google play store </li>
                             <li>2. scan given QR code </li>
                         </ul>
                     </div>
