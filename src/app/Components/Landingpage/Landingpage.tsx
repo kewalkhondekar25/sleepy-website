@@ -127,7 +127,7 @@ const Sleepy = () => {
                             md:justify-evenly'>
                                 <Image
                                     alt="logo"
-                                    src="https://res.cloudinary.com/ddhgokvc1/image/upload/v1698938069/Sleepy/logo/logo-type-a_enijz8.svg"
+                                    src="https://res.cloudinary.com/kewalkhondekar/image/upload/v1698938069/Sleepy/logo/logo-type-a_enijz8.svg"
                                     height={100}
                                     width={100}
                                     className='h-[5vw] w-[5vw]

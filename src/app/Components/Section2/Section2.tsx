@@ -58,7 +58,7 @@ const Section2 = () => {
                     
                 <Image
                     alt='img1'
-                    src="https://res.cloudinary.com/ddhgokvc1/image/upload/v1698936425/Sleepy/images/podcasts_bgxnnr.png"
+                    src="https://res.cloudinary.com/kewalkhondekar/image/upload/v1698936425/Sleepy/images/podcasts_bgxnnr.png"
                     height={100}
                     width={100}
                     className='h-[450px] w-[300px]

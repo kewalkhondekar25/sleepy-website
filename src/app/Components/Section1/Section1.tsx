@@ -67,7 +67,7 @@ const Section1 = () => {
                     
                 <Image
                     alt='img1'
-                    src="https://res.cloudinary.com/ddhgokvc1/image/upload/v1698932477/Sleepy/images/BoneFire_bab4qo.png"
+                    src="https://res.cloudinary.com/kewalkhondekar/image/upload/v1698932477/Sleepy/images/BoneFire_bab4qo.png"
                     height={100}
                     width={100}
                     className='h-[450px] w-[300px]
